@@ -1,8 +1,6 @@
 # ECE 0302 WSL (Ubuntu 22) Setup Instructions
 - [Frequently Asked Questions / Issues](https://github.com/jjo527/ECE0302-WSL-Documentation#faq)
 
-## Video version of the instructions: [https://youtu.be/rqA-wuDKynE](https://youtu.be/rqA-wuDKynE)
-
 - Install VS Code on Windows ([link](https://code.visualstudio.com/download))
   - **Note:** do not install VS Code on WSL, only need to install it on Windows
   - Make sure to add it to path on setup
